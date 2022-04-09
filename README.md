@@ -1,4 +1,4 @@
-### Hello, I'm Michael Shen 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=michaeltshen.michaeltshen)
+### Hello, I'm Michael Shen 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Michaeltshen.michaeltshen)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/michael-t-shen)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://michaeltshen.github.io)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/michaeltshen/)
@@ -14,7 +14,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Go           21 mins         ███████████▓░░░░░░░░░░░░░   46.64 %
+YAML         9 mins          █████░░░░░░░░░░░░░░░░░░░░   20.05 %
+Python       7 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.81 %
+HTML         7 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.02 %
+Docker       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
