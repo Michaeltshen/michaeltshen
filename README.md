@@ -1,4 +1,4 @@
-### Hello, I'm Michael Shen 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Michaeltshen.michaeltshen)
+### Hello, I'm Michael Shen 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=michaeltshen.michaeltshen)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/michael-t-shen)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://michaeltshen.github.io)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/michaeltshen/)
