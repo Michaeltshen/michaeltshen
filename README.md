@@ -3,6 +3,9 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://michaeltshen.github.io)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/michaeltshen/)
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michaeltshen&theme=onedark&margin-w=15&margin-h=15&column=7" alt="michaeltshen" /></a> </p>
+
+
 ### A Little About Me:
 🔭 I'm an undergraduate researcher at [NUCAR](https://ece.northeastern.edu/groups/nucar/) and a 6 month Architecture Modeling Co-op at [AMD](https://www.amd.com/en)</br>
 🌱 My research interests lie within performance analysis and hardware security of modern computer architectures </br>
