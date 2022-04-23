@@ -3,7 +3,7 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://michaeltshen.github.io)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/michaeltshen/)
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michaeltshen&theme=dracula&margin-w=15&margin-h=15&column=7" alt="michaeltshen" /></a> </p>
+<p align="center"> <a align="center" href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=michaeltshen&theme=dracula&margin-w=15&margin-h=15&column=7" alt="michaeltshen" /></a> </p>
 
 
 ### A Little About Me:
