@@ -14,14 +14,10 @@
 😄 Pronouns: He/Him </br>
 
 📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="@michaeltshen&compact=True&theme=dracula">https://github-readme-stats.vercel.app/api/wakatime?username=@michaeltshen&compact=True"/>
+</a>
 
-```text
-Go       3 hrs 37 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   45.40 %
-Other    1 hr 59 mins    ⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   24.82 %
-```
-
-<!--END_SECTION:waka-->
 
 
 📈 **My GitHub Stats:**
