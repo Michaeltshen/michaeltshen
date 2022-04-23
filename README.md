@@ -14,11 +14,9 @@
 😄 Pronouns: He/Him </br>
 
 📊 **This Week I Spent My Time On:**
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="@michaeltshen&compact=True&theme=dracula">https://github-readme-stats.vercel.app/api/wakatime?username=@michaeltshen&compact=True"/>
-</a>
-
-
+<p>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/wakatime?username=michaeltshen&theme=dracula&hide_border=true" />
+</p>
 
 📈 **My GitHub Stats:**
 
