@@ -7,8 +7,8 @@
 
 
 ### A Little About Me:
-🔭 I'm an undergraduate researcher at [NUCAR](https://ece.northeastern.edu/groups/nucar/) and a 6 month Architecture Modeling Co-op at [AMD](https://www.amd.com/en)</br>
-🌱 My research interests lie within performance analysis and hardware security of modern computer architectures </br>
+🔭 I'm an undergraduate researcher at [NUCAR](https://ece.northeastern.edu/groups/nucar/)
+🌱  My research primarily focuses on performance analysis and modeling of modern GPU architectures as well as vulnerability modeling of current CPU microarchitectures </br>
 📫 Feel free to reach out to me at shen.mich@northeastern.edu </br>
 📝 [My Resume](https://michaeltshen.github.io/Files/MS_Resume.pdf?) </br>
 😄 Pronouns: He/Him </br>
