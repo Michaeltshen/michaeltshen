@@ -5,20 +5,6 @@
 
 <p align="center"> <a align="center" href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=michaeltshen&theme=dracula&margin-w=15&margin-h=15&column=8" alt="michaeltshen" /></a> </p>
 
-
-### A Little About Me:
-🔭 I'm an undergraduate researcher at [NUCAR](https://ece.northeastern.edu/groups/nucar/) </br>
-🌱  My research primarily focuses on performance analysis and modeling of modern GPU architectures as well as vulnerability modeling of current CPU microarchitectures </br>
-📫 Feel free to reach out to me at shen.mich@northeastern.edu </br>
-📝 [My Resume](https://michaeltshen.github.io/Files/MS_Resume.pdf?) </br>
-😄 Pronouns: He/Him </br>
-👨‍💻 I am more active on [gitlab](https://gitlab.com/Michaeltshen) </br>
-
-📊 **This Week I Spent My Time On:**
-<p align="center">
-<img height="175em" src="https://github-readme-stats.vercel.app/api/wakatime?username=michaeltshen&theme=dracula&hide_border=true" />
-</p>
-
 📈 **My GitHub Stats:**
 
 <p align="center">
